@@ -1,0 +1,2 @@
+code_snippets/Django_Blog/snippets at master · CoreyMSchafer/code_snippets · GitHub
+https://github.com/CoreyMSchafer/code_snippets/tree/master/Django_Blog/snippets
